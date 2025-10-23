@@ -1,7 +1,19 @@
 body{
     background-color: rgb(250, 65, 118);
+color:rgb(251, 249, 249);
+font-family: 'Courier New', Courier, monospace;
+margin: 0px;
+}
+h1{
 
-
-
-    
+    Color: white ;
+    font-size: 40px;
+}
+P{
+font-size: 25px;
+}
+header{
+    border-bottom: rgb(244, 59, 3);
+    padding: 10px;
+    color: rgb(246, 8, 16);
 }
